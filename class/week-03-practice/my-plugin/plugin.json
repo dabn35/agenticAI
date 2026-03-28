@@ -1,0 +1,7 @@
+{
+  "name": "week-03-practice-plugin",
+  "description": "Week 3 MCP/Skill/Plugin 실습용 플러그인",
+  "version": "0.1.0",
+  "skills": ["skills/"],
+  "mcpServers": ".mcp.json"
+}

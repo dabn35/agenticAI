@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "github": {
+      "url": "https://api.githubcopilot.com/mcp/"
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest"]
+    },
+    "local-utils": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["class/week-03-practice/minimal_mcp_server.py"]
+    }
+  }
+}

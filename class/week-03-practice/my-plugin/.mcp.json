@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "local-utils": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["..\\minimal_mcp_server.py"]
+    }
+  }
+}
